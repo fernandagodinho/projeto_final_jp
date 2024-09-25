@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base: "/projeto_final_jp",
   server: {
-    port: 5173
+    port: 3000
   }
 });
