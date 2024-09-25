@@ -24,10 +24,10 @@
     "yargs": "^17.7.2",
     "yargs-parser": "^21.1.1"
   },
-  "homepage": "https://github.com/your-username/my-app",
+  "homepage": "https://github.com/fernandagodinho/projeto_final_jp",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/my-app.git"
+    "url": "https://github.com/fernandagodinho/projeto_final_jp.git"
   },
   "keywords": [
     "react",
@@ -48,3 +48,5 @@
     ]
   }
 }
+
+
